@@ -1,0 +1,23 @@
+﻿빌드 시작: 2014-07-30 오후 5:52:44
+     1>2 노드의 "C:\Users\mong\Documents\Visual Studio 2013\Projects\Battleship_임예림\Battleship_임예림\Battleship_임예림.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Battleship_임예림.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Battleship_임예림.cpp" Map.cpp Player.cpp
+         Player.cpp
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\map.h(11): error C2143: 구문 오류 : ']'이(가) ',' 앞에 없습니다.
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\map.h(11): error C2059: 구문 오류 : '상수'
+         Map.cpp
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\map.h(11): error C2143: 구문 오류 : ']'이(가) ',' 앞에 없습니다.
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\map.h(11): error C2059: 구문 오류 : '상수'
+         Battleship_임예림.cpp
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\struct.h(2): error C2011: 'Position' : 'struct' 형식 재정의
+                 c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\struct.h(2) : 'Position' 선언을 참조하십시오.
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\struct.h(8): error C2011: 'Direction' : 'enum' 형식 재정의
+                 c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\struct.h(8) : 'Direction' 선언을 참조하십시오.
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\battleship_임예림.cpp(23): error C2660: 'Ship::AddPosiotion' : 함수는 0개의 매개 변수를 사용하지 않습니다.
+     1>c:\users\mong\documents\visual studio 2013\projects\battleship_임예림\battleship_임예림\battleship_임예림.cpp(64): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         코드를 생성하고 있습니다...
+     1>"C:\Users\mong\Documents\Visual Studio 2013\Projects\Battleship_임예림\Battleship_임예림\Battleship_임예림.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.82

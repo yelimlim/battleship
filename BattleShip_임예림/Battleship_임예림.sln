@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battleship_임예림", "Battleship_임예림\Battleship_임예림.vcxproj", "{B66E2BD8-A34E-445C-B35B-40BC53499F85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battleship", "Battleship\Battleship.vcxproj", "{3559DB09-EA37-4A91-8D22-C53CEE83D149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66E2BD8-A34E-445C-B35B-40BC53499F85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B66E2BD8-A34E-445C-B35B-40BC53499F85}.Release|Win32.ActiveCfg = Release|Win32
+		{B66E2BD8-A34E-445C-B35B-40BC53499F85}.Release|Win32.Build.0 = Release|Win32
+		{3559DB09-EA37-4A91-8D22-C53CEE83D149}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3559DB09-EA37-4A91-8D22-C53CEE83D149}.Debug|Win32.Build.0 = Debug|Win32
+		{3559DB09-EA37-4A91-8D22-C53CEE83D149}.Release|Win32.ActiveCfg = Release|Win32
+		{3559DB09-EA37-4A91-8D22-C53CEE83D149}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
